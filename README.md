@@ -76,6 +76,10 @@ También tengo interés en áreas como visualización de datos, ciencia de datos
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santiago-rueda-q&show_icons=true&theme=radical" alt="santiago-rueda-q" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-rueda-q&layout=compact&langs_count=8&theme=radical" width="45%" />
+</p>
+
 
 ---
 
