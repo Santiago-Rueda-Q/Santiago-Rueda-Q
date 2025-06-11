@@ -82,7 +82,7 @@ También tengo interés en áreas como visualización de datos, ciencia de datos
 ### 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/santiago rueda quintero" target="_blank">
+  <a href="[https://linkedin.com/in/santiago rueda quintero](https://www.linkedin.com/in/santiago-rueda-quintero-286946304/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/santiago_r_q" target="_blank">
