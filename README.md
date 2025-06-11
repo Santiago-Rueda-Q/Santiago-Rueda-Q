@@ -88,7 +88,7 @@ También tengo interés en áreas como visualización de datos, ciencia de datos
   <a href="https://instagram.com/santiago_r_q" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/@santiagorqsoft" target="_blank">
+  <a href="https://www.youtube.com/@santiagorqsoft" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
